@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12100" started-at="2022-12-14T14:26:36Z" finished-at="2022-12-14T14:26:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12100" started-at="2022-12-14T14:26:36Z" finished-at="2022-12-14T14:26:48Z">
+      <class name="test.TestLoginAndAddProducts">
+        <test-method status="PASS" signature="setUpFn()[pri:0, instance:test.TestLoginAndAddProducts@192b07fd]" name="setUpFn" is-config="true" duration-ms="8455" started-at="2022-12-14T16:26:36Z" finished-at="2022-12-14T16:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpFn -->
+        <test-method status="PASS" signature="loginFn()[pri:0, instance:test.TestLoginAndAddProducts@192b07fd]" name="loginFn" duration-ms="2917" started-at="2022-12-14T16:26:45Z" finished-at="2022-12-14T16:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFn -->
+        <test-method status="PASS" signature="loginFn1()[pri:0, instance:test.TestLoginAndAddProducts@192b07fd]" name="loginFn1" is-config="true" duration-ms="711" started-at="2022-12-14T16:26:48Z" finished-at="2022-12-14T16:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFn1 -->
+      </class> <!-- test.TestLoginAndAddProducts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
